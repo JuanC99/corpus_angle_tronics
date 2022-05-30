@@ -1,0 +1,26 @@
+<annotation>
+	<folder>custom_images</folder>
+	<filename>cristal4.jpg</filename>
+	<path>/home/juanc/yolo/custom_images/cristal4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pote cristal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>350</xmin>
+			<ymin>1</ymin>
+			<xmax>1056</xmax>
+			<ymax>941</ymax>
+		</bndbox>
+	</object>
+</annotation>

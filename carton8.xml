@@ -1,0 +1,26 @@
+<annotation>
+	<folder>custom_images</folder>
+	<filename>carton8.jpg</filename>
+	<path>/home/juanc/yolo/custom_images/carton8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rollo papel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>668</ymin>
+			<xmax>825</xmax>
+			<ymax>1449</ymax>
+		</bndbox>
+	</object>
+</annotation>

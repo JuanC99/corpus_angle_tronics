@@ -1,0 +1,26 @@
+<annotation>
+	<folder>custom_images</folder>
+	<filename>plastico5.jpg</filename>
+	<path>/home/juanc/yolo/custom_images/plastico5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>1600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>botella plastico</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>199</ymin>
+			<xmax>695</xmax>
+			<ymax>1347</ymax>
+		</bndbox>
+	</object>
+</annotation>
