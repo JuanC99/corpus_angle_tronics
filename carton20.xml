@@ -1,7 +1,7 @@
 <annotation>
-	<folder>custom_images</folder>
+	<folder>fotos_reciclaje</folder>
 	<filename>carton20.jpg</filename>
-	<path>/home/juanc/yolo/custom_images/carton20.jpg</path>
+	<path>/home/juanc/Escritorio/GIT/angletronics_web/src/public/assets/fotos_reciclaje/carton20.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>rollo papel</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>75</xmin>
-			<ymin>120</ymin>
-			<xmax>130</xmax>
-			<ymax>240</ymax>
+			<xmin>128</xmin>
+			<ymin>59</ymin>
+			<xmax>189</xmax>
+			<ymax>175</ymax>
 		</bndbox>
 	</object>
 </annotation>

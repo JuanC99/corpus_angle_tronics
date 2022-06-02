@@ -1,7 +1,7 @@
 <annotation>
-	<folder>custom_images</folder>
+	<folder>fotos_reciclaje</folder>
 	<filename>plastico34.jpg</filename>
-	<path>/home/juanc/yolo/custom_images/plastico34.jpg</path>
+	<path>/home/juanc/Escritorio/GIT/angletronics_web/src/public/assets/fotos_reciclaje/plastico34.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>201</xmin>
-			<ymin>18</ymin>
-			<xmax>262</xmax>
+			<xmin>155</xmin>
+			<ymin>47</ymin>
+			<xmax>217</xmax>
 			<ymax>226</ymax>
 		</bndbox>
 	</object>

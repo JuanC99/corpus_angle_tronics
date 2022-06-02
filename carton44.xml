@@ -1,7 +1,7 @@
 <annotation>
-	<folder>custom_images</folder>
+	<folder>fotos_reciclaje</folder>
 	<filename>carton44.jpg</filename>
-	<path>/home/juanc/yolo/custom_images/carton44.jpg</path>
+	<path>/home/juanc/Escritorio/GIT/angletronics_web/src/public/assets/fotos_reciclaje/carton44.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>131</xmin>
-			<ymin>66</ymin>
-			<xmax>193</xmax>
-			<ymax>174</ymax>
+			<xmin>153</xmin>
+			<ymin>80</ymin>
+			<xmax>212</xmax>
+			<ymax>191</ymax>
 		</bndbox>
 	</object>
 </annotation>

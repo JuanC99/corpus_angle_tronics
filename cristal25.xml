@@ -1,7 +1,7 @@
 <annotation>
-	<folder>custom_images</folder>
+	<folder>fotos_reciclaje</folder>
 	<filename>cristal25.jpg</filename>
-	<path>/home/juanc/yolo/custom_images/cristal25.jpg</path>
+	<path>/home/juanc/Escritorio/GIT/angletronics_web/src/public/assets/fotos_reciclaje/cristal25.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>146</xmin>
-			<ymin>68</ymin>
-			<xmax>220</xmax>
-			<ymax>198</ymax>
+			<xmin>97</xmin>
+			<ymin>37</ymin>
+			<xmax>196</xmax>
+			<ymax>233</ymax>
 		</bndbox>
 	</object>
 </annotation>

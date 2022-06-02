@@ -1,7 +1,7 @@
 <annotation>
-	<folder>custom_images</folder>
+	<folder>fotos_reciclaje</folder>
 	<filename>plastico50.jpg</filename>
-	<path>/home/juanc/yolo/custom_images/plastico50.jpg</path>
+	<path>/home/juanc/Escritorio/GIT/angletronics_web/src/public/assets/fotos_reciclaje/plastico50.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>botella plastico</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>108</xmin>
-			<ymin>70</ymin>
-			<xmax>195</xmax>
-			<ymax>240</ymax>
+			<xmin>174</xmin>
+			<ymin>28</ymin>
+			<xmax>222</xmax>
+			<ymax>175</ymax>
 		</bndbox>
 	</object>
 </annotation>

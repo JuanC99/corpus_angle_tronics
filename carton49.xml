@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fotos_reciclaje</folder>
+	<filename>carton49.jpg</filename>
+	<path>/home/juanc/Escritorio/GIT/angletronics_web/src/public/assets/fotos_reciclaje/carton49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rollo papel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>193</xmin>
+			<ymin>68</ymin>
+			<xmax>254</xmax>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+</annotation>

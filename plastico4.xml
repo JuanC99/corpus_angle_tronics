@@ -1,13 +1,13 @@
 <annotation>
-	<folder>custom_images</folder>
+	<folder>fotos_reciclaje</folder>
 	<filename>plastico4.jpg</filename>
-	<path>/home/juanc/yolo/custom_images/plastico4.jpg</path>
+	<path>/home/juanc/Escritorio/GIT/angletronics_web/src/public/assets/fotos_reciclaje/plastico4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>1200</width>
-		<height>1600</height>
+		<width>320</width>
+		<height>240</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>208</xmin>
-			<ymin>721</ymin>
-			<xmax>642</xmax>
-			<ymax>1414</ymax>
+			<xmin>187</xmin>
+			<ymin>36</ymin>
+			<xmax>246</xmax>
+			<ymax>221</ymax>
 		</bndbox>
 	</object>
 </annotation>

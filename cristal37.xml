@@ -1,7 +1,7 @@
 <annotation>
-	<folder>custom_images</folder>
+	<folder>fotos_reciclaje</folder>
 	<filename>cristal37.jpg</filename>
-	<path>/home/juanc/yolo/custom_images/cristal37.jpg</path>
+	<path>/home/juanc/Escritorio/GIT/angletronics_web/src/public/assets/fotos_reciclaje/cristal37.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>pote cristal</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>86</xmin>
-			<ymin>1</ymin>
-			<xmax>172</xmax>
-			<ymax>167</ymax>
+			<xmin>111</xmin>
+			<ymin>27</ymin>
+			<xmax>216</xmax>
+			<ymax>224</ymax>
 		</bndbox>
 	</object>
 </annotation>
