@@ -1,0 +1,26 @@
+<annotation>
+	<folder>v2</folder>
+	<filename>cristalV225.jpg</filename>
+	<path>/home/juanc/Escritorio/GIT/corpus_angle_tronics/v2/cristalV225.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pote cristal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>45</ymin>
+			<xmax>245</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

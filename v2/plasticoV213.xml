@@ -1,0 +1,26 @@
+<annotation>
+	<folder>v2</folder>
+	<filename>plasticoV213.jpg</filename>
+	<path>/home/juanc/Escritorio/GIT/corpus_angle_tronics/v2/plasticoV213.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>240</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>botella plastico</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>119</ymin>
+			<xmax>210</xmax>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+</annotation>
